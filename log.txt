@@ -1,0 +1,6 @@
+O usuário escolheu a opção: somar e o resultado foi: 25.0
+O usuário escolheu a opção: subtrair e o resultado foi: 35.0
+O usuário escolheu a opção: dividir e o resultado foi: 5.0
+O usuário escolheu a opção: multiplicar e o resultado foi: 500.0
+O usuÃ¡rio escolheu a opÃ§Ã£o: somar e o resultado foi: 20.0
+O usuÃ¡rio escolheu a opÃ§Ã£o: dividir e o resultado foi: 5.0
