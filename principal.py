@@ -35,3 +35,5 @@ if __name__ == "__main__":
                       + str(resultado) + "\n")
 
         print("O resultado da operação é: ", resultado)
+
+        print("Alteração nova!!!!!")
